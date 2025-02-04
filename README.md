@@ -10,6 +10,7 @@
 ## Tecnologias que uso no meu dia a dia
 
  <div style="display: inline_block"><br>
+   <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/java-plain.svg">
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Marcelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">       
