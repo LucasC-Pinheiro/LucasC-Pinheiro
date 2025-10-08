@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Pinheiro
 
-- 👨🏽‍💻 Desenvolvidor Mobile
+- 👨🏽‍💻 Desenvolvidor Front-End
 
 <div align="center">
   <a href="https://github.com/LucasC-Pinheiro">
