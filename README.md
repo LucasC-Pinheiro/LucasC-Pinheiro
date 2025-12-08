@@ -1,32 +1,76 @@
-## Olá! Eu sou o Lucas Pinheiro
+<h1 align="center">👋 Olá, eu sou o Lucas Pinheiro</h1>
 
-- 👨🏽‍💻 Desenvolvidor Mobile
+<p align="center">
+  <em>Mobile Developer • React Native • TypeScript • Expo • Firebase</em>
+</p>
 
-<div align="center">
-  <a href="https://github.com/LucasC-Pinheiro">
-  
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC-Pinheiro&layout=compact&langs_count=7&theme=dark" />
-    
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240885305-0b1817b4-e60e-4eaa-baaa-83e4831a6e7c.gif" width="400px" alt="coding animation" />
+</p>
 
-## Tecnologias que uso no meu dia a dia
+---
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="Marcelo-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Marcelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">       
-  <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
-  
-  ##
+<p align="center">
+  Apaixonado pelo desenvolvimento mobile e pela construção de apps com performance, design e experiência fluida.<br/>
+  Aqui você encontra meus estudos, projetos e evolução contínua no ecossistema React Native.
+</p>
 
- <div> 
-  <a href="https://www.instagram.com/lukaspinheiiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "pinheirotj69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Lucas Pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-pinheiro/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pinheirotj69@gmail.com">
+    <img src="https://img.shields.io/badge/-Contato-333?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/lukaspinheiiro/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+  </a>
+</p>
 
+---
 
-   
+### 🧠 Sobre mim
+
+- 📱 Desenvolvedor focado em **React Native e TypeScript**
+- 🚀 Experiência com **Expo, Firebase, TailWind...**
+- ⚙ Backend com **NestJS e Node.js**
+- 🔍 Interesse contínuo em performance mobile e UI/UX moderna
+- 🎯 Meu objetivo: criar apps robustos, escaláveis e visualmente impactantes
+
+---
+
+### 💻 Tech Stack Principal
+
+<p align="center" style="display: flex; gap: 12px;">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="38" src="https://nestjs.com/img/logo-small.svg" title="NestJS" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <img src="https://logo.svgcdn.com/logos/expo-icon.svg" width="40" />
+</p>
+
+---
+
+### 📊 Linguagens mais usadas
+
+<p align="center">
+ <img width="41%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=LucasC-Pinheiro&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=LucasC-Pinheiro&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Never stop building. One commit at a time.</em> 🟩
+</p>
