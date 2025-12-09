@@ -60,7 +60,7 @@
 ### 📊 Linguagens mais usadas
 
 <p align="center">
- <img width="41%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=LucasC-Pinheiro&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasC-Pinheiro&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🟩 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=LucasC-Pinheiro&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasC-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
