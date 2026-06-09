@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-pinheiro/">
+  <a href="www.linkedin.com/in/lucaschavesp">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:pinheirotj69@gmail.com">
     <img src="https://img.shields.io/badge/-Contato-333?style=flat-square&logo=Gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/lukaspinheiiro/">
+  <a href="https://www.instagram.com/lc.pinheiiro/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
   </a>
 </p>
