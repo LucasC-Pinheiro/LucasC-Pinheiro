@@ -1,31 +1,28 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Pinheiro</h1>
 
 <p align="center">
-  <em>Mobile Developer • React Native • TypeScript • Expo • Firebase</em>
+  <strong>Desenvolvedor Mobile • React Native • TypeScript • Expo</strong>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  Transformando ideias em aplicativos modernos, performáticos e com foco na experiência do usuário.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240885305-0b1817b4-e60e-4eaa-baaa-83e4831a6e7c.gif" width="400px" alt="coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/240885305-0b1817b4-e60e-4eaa-baaa-83e4831a6e7c.gif" width="450px" alt="coding animation" />
 </p>
 
----
+<p align="center"> <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" /> </p>
 
 <p align="center">
-  Apaixonado pelo desenvolvimento mobile e pela construção de apps com performance, design e experiência fluida.<br/>
-  Aqui você encontra meus estudos, projetos e evolução contínua no ecossistema React Native.
-</p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/lucaschavesp">
+  <a href="https://www.linkedin.com/in/lucaschavesp">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
+
   <a href="mailto:pinheirotj69@gmail.com">
     <img src="https://img.shields.io/badge/-Contato-333?style=flat-square&logo=Gmail&logoColor=white">
   </a>
+
   <a href="https://www.instagram.com/lc.pinheiiro/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
   </a>
@@ -33,44 +30,68 @@
 
 ---
 
-### 🧠 Sobre mim
+# ✨ Sobre Mim
 
-- 📱 Desenvolvedor focado em **React Native e TypeScript**
-- 🚀 Experiência com **Expo, Firebase, TailWind...**
-- ⚙ Backend com **NestJS e Node.js**
-- 🔍 Interesse contínuo em performance mobile e UI/UX moderna
-- 🎯 Meu objetivo: criar apps robustos, escaláveis e visualmente impactantes
+📱 Desenvolvedor Mobile focado em **React Native**, **TypeScript** e **Expo**.
+
+🚀 Apaixonado por criar aplicações modernas com interfaces intuitivas, arquitetura organizada e excelente experiência do usuário.
+
+⚡ Experiência com integração de APIs, Firebase, autenticação, navegação, componentização e desenvolvimento de aplicações escaláveis.
+
+🎯 Meu objetivo é evoluir continuamente como desenvolvedor e construir produtos que gerem impacto real na vida das pessoas.
 
 ---
 
-### 💻 Tech Stack Principal
+# ✈️ Atualmente Construindo
 
-<p align="center" style="display: flex; gap: 12px;">
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img height="38" src="https://nestjs.com/img/logo-small.svg" title="NestJS" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  <img src="https://logo.svgcdn.com/logos/expo-icon.svg" width="40" />
+## Travel App
+
+Aplicativo mobile desenvolvido com React Native e TypeScript para planejamento e organização de viagens.
+
+### Funcionalidades
+
+- 🌍 Descoberta de destinos turísticos
+- 🏨 Busca de hotéis
+- 🍽️ Restaurantes e pontos de interesse
+- 📅 Planejamento de viagens
+- ❤️ Favoritos
+- 🔐 Fluxo completo de autenticação
+- 🤖 Assistente inteligente de viagens (em desenvolvimento)
+
+### Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-### 📊 Linguagens mais usadas
+# 🚀 Principais Competências
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasC-Pinheiro&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+- React Native
+- TypeScript
+- Expo
+- Firebase
+- REST APIs
+- React Navigation
+- Componentização
+- Mobile UI/UX
+- Git & GitHub
+- Clean Code
 
 ---
 
-### 🟩 GitHub Stats
+# 📈 Atualmente
+
+- 📚 Aprimorando conhecimentos em arquitetura mobile
+- 🔥 Construindo projetos reais para portfólio
+- 🌎 Buscando oportunidades remotas e internacionais
+
+---
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasC-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <em>Never stop building. One commit at a time.</em> 🟩
+  <strong>Never stop building. One commit at a time.</strong> 🚀
 </p>
